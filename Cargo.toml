@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "movegen",
+    "search",
+    "eval",
+    "types"
+]
